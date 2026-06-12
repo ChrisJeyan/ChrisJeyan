@@ -209,7 +209,7 @@ GitHub Trophies
 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=drawwithcjcom-ai&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrisJeyan&theme=react-dark"/>
 </p>---
 
 ## Contribution Snake
