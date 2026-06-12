@@ -212,13 +212,11 @@ Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=drawwithcjcom-ai&theme=react-dark"/>
 </p>---
 
-Contribution Snake
+## Contribution Snake
 
-Add this GitHub Action later:
-
-Generate:
-  Snake Animation:
-    Enabled: true
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChrisJeyan/ChrisJeyan/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 
 ---
 
