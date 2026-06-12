@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,50:8A2BE2,100:4B0082&text=Chris%20Jeyan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>""Typing SVG" (https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Student+Developer;Building+AI-Powered+Applications;Real-Time+Collaboration+Systems;Future+Software+Architect)" (https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,50:8A2BE2,100:4B0082&text=Chris%20Jeyan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Student%20Developer-Violet?style=for-the-badge&logo=github&logoColor=white"/>
