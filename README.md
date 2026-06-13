@@ -12,13 +12,13 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a><a href="mailto:drawwithcj.com@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-</a><a href="https://github.com/drawwithcjcom-ai">
+</a><a href="https://github.com/ChrisJeyan">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 </p><p align="center">
-<img src="https://komarev.com/ghpvc/?username=drawwithcjcom-ai&style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/drawwithcjcom-ai?style=for-the-badge&color=8A2BE2"/>
-<img src="https://img.shields.io/github/stars/drawwithcjcom-ai?style=for-the-badge&color=6A5ACD"/>
+<img src="https://komarev.com/ghpvc/?username=ChrisJeyan&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/ChrisJeyan?style=for-the-badge&color=8A2BE2"/>
+<img src="https://img.shields.io/github/stars/ChrisJeyan?style=for-the-badge&color=6A5ACD"/>
 </p></div>---
 
 About Me
