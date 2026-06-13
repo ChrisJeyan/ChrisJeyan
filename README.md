@@ -250,7 +250,7 @@ Connect
 </a><a href="https://www.linkedin.com/in/chris-jeyan-56404940b">
 <img src="https://img.shields.io/badge/LinkedIn-Chris%20Jeyan-blue?style=for-the-badge&logo=linkedin"/>
 </a><a href="https://github.com/drawwithcjcom-ai">
-<img src="https://img.shields.io/badge/GitHub-drawwithcjcom--ai-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-ChrisJeyan-black?style=for-the-badge&logo=github"/>
 </a></p>---
 
 <div align="center">"Building technology that empowers learning, collaboration, and innovation."
