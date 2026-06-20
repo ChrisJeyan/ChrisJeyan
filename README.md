@@ -79,29 +79,6 @@ Product Engineering| Intermediate| Building developer-centric platforms
 Featured Projects
 
 <details>
-<summary><b>🚀 DevSync</b></summary>AI-Powered Real-Time Collaborative Coding Platform
-
-Category| Details
-Stack| Python, Flask, Monaco Editor, AI Integration
-Scale| Multi-user collaborative environment
-Performance| Real-time synchronization
-Security| Session-based collaboration
-Impact| Helps students and developers code together
-Repository| github.com/drawwithcjcom-ai
-
-Overview
-
-DevSync is an intelligent collaborative coding platform that enables developers and students to work together in real time.
-
-Key Features
-
-- Real-time collaborative editing
-- AI-powered debugging support
-- Code optimization suggestions
-- Learning-oriented code explanations
-- Multi-language development environment
-- Productivity-focused architecture
-
 </details><details>
 <summary><b>📊 Student Performance Analysis System</b></summary>Academic Analytics Platform
 
