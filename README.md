@@ -171,16 +171,16 @@ Coding Profiles
 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=drawwithcjcom-ai&show_icons=true&theme=midnight-purple"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drawwithcjcom-ai&layout=compact&theme=midnight-purple"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChrisJeyan&show_icons=true&theme=midnight-purple"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisJeyan&layout=compact&theme=midnight-purple"/>
 </p><p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=drawwithcjcom-ai&theme=midnight-purple"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisJeyan&theme=midnight-purple"/>
 </p>---
 
 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=drawwithcjcom-ai&theme=algolia&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ChrisJeyan&theme=algolia&row=1&column=7"/>
 </p>---
 
 Contribution Activity
