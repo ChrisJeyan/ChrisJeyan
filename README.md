@@ -1,235 +1,48 @@
-## Hi there 👋
+<img src="assets/hero.svg" width="100%" alt="Terminal introducing Chris Jeyan"/>
 
-<div align="center">
+I'm a full-stack developer and student based in Tirunelveli, India. I like building tools that make development faster and more collaborative — real-time editors, AI-assisted workflows, and small platforms that turn raw data into something people can actually read.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,50:8A2BE2,100:4B0082&text=Chris%20Jeyan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="assets/divider.svg" width="100%" height="4" alt=""/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Student%20Developer-Violet?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tirunelveli-India-blueviolet?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-</p><p align="center">
-<a href="https://www.linkedin.com/in/chris-jeyan-56404940b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a><a href="mailto:drawwithcj.com@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-</a><a href="https://github.com/ChrisJeyan">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-</a>
-</p><p align="center">
-<img src="https://komarev.com/ghpvc/?username=ChrisJeyan&style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/ChrisJeyan?style=for-the-badge&color=8A2BE2"/>
-<img src="https://img.shields.io/github/stars/ChrisJeyan?style=for-the-badge&color=6A5ACD"/>
-</p></div>---
+### Currently
 
-About Me
+- Building **DevSync**, a real-time collaborative coding environment
+- Learning system design and AI-assisted software engineering
+- Open to student developer roles and open-source collaboration
 
-I am Chris Jeyan, a passionate Full Stack Developer and Student Developer focused on building scalable software solutions, AI-powered applications, and real-time collaboration systems.
+<img src="assets/divider.svg" width="100%" height="4" alt=""/>
 
-My interests lie at the intersection of:
+### Stack
 
-- Software Engineering
-- Artificial Intelligence
-- Real-Time Collaboration Platforms
-- Full Stack Development
-- Product Engineering
-- Developer Productivity Tools
+<img src="assets/skills.svg" width="100%" alt="Python, Java, JavaScript, HTML5, CSS3, Flask, MySQL, Git, GitHub, VS Code"/>
 
-Open To
+<img src="assets/divider.svg" width="100%" height="4" alt=""/>
 
-- Open Source Collaboration
-- Student Developer Opportunities
-- Full Stack Development Projects
-- AI-Powered Product Development
-- Technical Communities
+### Featured work
 
----
+**Student Performance Analysis System**
+A Python tool that stores academic records and turns them into readable performance reports — built so evaluators can spot trends across a class instead of parsing raw marks sheets by hand.
+`Python` · [source](https://github.com/drawwithcjcom-ai)
 
-Tech Stack
+<img src="assets/divider.svg" width="100%" height="4" alt=""/>
 
-Languages
+### Activity
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java"/>
-</p>Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
-</p>Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,mysql"/>
-</p>Cloud, DevOps & Tooling
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>---
-
-AI / ML Expertise
-
-Domain| Proficiency| Details
-Artificial Intelligence| Intermediate| AI-assisted software development
-Generative AI| Intermediate| GitHub Copilot integration
-NLP| Intermediate| AI teaching & code assistance concepts
-Developer AI Tools| Advanced| Productivity & debugging workflows
-Real-Time Systems| Intermediate| Collaborative development environments
-Product Engineering| Intermediate| Building developer-centric platforms
-
----
-
-Featured Projects
-
-<details>
-</details><details>
-<summary><b>📊 Student Performance Analysis System</b></summary>Academic Analytics Platform
-
-Category| Details
-Stack| Python
-Scale| Academic data analysis
-Performance| Efficient report generation
-Security| Structured student data handling
-Impact| Helps evaluate student performance
-Repository| github.com/drawwithcjcom-ai
-
-Overview
-
-A Python-based student analytics platform that stores academic records and provides meaningful insights into student performance.
-
-Key Features
-
-- Student marks management
-- Academic record processing
-- Performance analytics
-- Report generation
-- Data organization
-
-</details>---
-
-Experience
-
-Student Developer
-
-Independent Projects & Learning
-
-2024 - Present
-
-Focused on:
-
-- Full Stack Development
-- AI Integration
-- Real-Time Collaboration Platforms
-- Python Application Development
-- Product Engineering Concepts
-
-Skills
-
-"Python"
-"Java"
-"Flask"
-"Git"
-"GitHub"
-"AI"
-"Full Stack Development"
-
----
-
-Achievements
-
-Recognition| Details
-AI Application Development| Built AI-powered collaborative coding platform
-Student Developer| Actively exploring advanced software engineering
-Open Source Learning| Maintaining public GitHub repositories
-Product Development| Designing developer-focused tools
-
----
-
-Certifications
-
-AWS
-
-Coming Soon
-
-Oracle
-
-Coming Soon
-
-Cisco
-
-Coming Soon
-
-NPTEL
-
-Coming Soon
-
----
-
-Coding Profiles
-
-<p align="center"><a href="https://github.com/drawwithcjcom-ai">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-</a></p>---
-
-GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChrisJeyan&show_icons=true&theme=midnight-purple"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisJeyan&layout=compact&theme=midnight-purple"/>
-</p><p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisJeyan&theme=midnight-purple"/>
-</p>---
-
-GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ChrisJeyan&theme=algolia&row=1&column=7"/>
-</p>---
-
-Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrisJeyan&theme=react-dark"/>
-</p>---
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChrisJeyan/ChrisJeyan/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChrisJeyan&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=E7E9EE&text_color=8B93A7&icon_color=7C6FF0" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisJeyan&layout=compact&hide_border=true&bg_color=0B0E14&title_color=E7E9EE&text_color=8B93A7" height="165" alt="Top languages"/>
 </p>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisJeyan&hide_border=true&background=0B0E14&ring=7C6FF0&fire=5EEAD4&currStreakLabel=E7E9EE&sideLabels=8B93A7&currStreakNum=E7E9EE&sideNums=E7E9EE&dates=5B6376" width="100%" alt="GitHub streak stats"/>
 
-Current Focus
+<img src="https://raw.githubusercontent.com/ChrisJeyan/ChrisJeyan/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation"/>
 
-Learning:
-  - Advanced Full Stack Development
-  - AI Assisted Software Engineering
-  - System Design
+<img src="assets/divider.svg" width="100%" height="4" alt=""/>
 
-Building:
-  - DevSync
-  - AI Powered Developer Tools
+### Contact
 
-Exploring:
-  - Real-Time Collaboration Technologies
-  - Generative AI
-  - Product Engineering
-
-Open_To:
-  - Collaboration
-  - Open Source Projects
-  - Student Developer Opportunities
-
----
-
-Connect
-
-<p align="center"><a href="mailto:drawwithcj.com@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-drawwithcj.com@gmail.com-red?style=for-the-badge&logo=gmail"/>
-</a><a href="https://www.linkedin.com/in/chris-jeyan-56404940b">
-<img src="https://img.shields.io/badge/LinkedIn-Chris%20Jeyan-blue?style=for-the-badge&logo=linkedin"/>
-</a><a href="https://github.com/drawwithcjcom-ai">
-<img src="https://img.shields.io/badge/GitHub-ChrisJeyan-black?style=for-the-badge&logo=github"/>
-</a></p>---
-
-<div align="center">"Building technology that empowers learning, collaboration, and innovation."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6A5ACD,50:8A2BE2,100:4B0082"/></div>
+<p>
+  <a href="mailto:drawwithcj.com@gmail.com"><img src="assets/contact-mail.svg" height="46" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/chris-jeyan-56404940b"><img src="assets/contact-linkedin.svg" height="46" alt="LinkedIn"/></a>
+  <a href="https://github.com/ChrisJeyan"><img src="assets/contact-github.svg" height="46" alt="GitHub"/></a>
+</p>
