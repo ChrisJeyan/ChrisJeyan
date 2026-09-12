@@ -1,8 +1,8 @@
-<img src="assets/hero.svg" width="100%" alt="Terminal introducing Chris Jeyan"/>
+<img src="hero.svg" width="100%" alt="Terminal introducing Chris Jeyan"/>
 
 I'm a full-stack developer and student based in Tirunelveli, India. I like building tools that make development faster and more collaborative — real-time editors, AI-assisted workflows, and small platforms that turn raw data into something people can actually read.
 
-<img src="assets/divider.svg" width="100%" height="4" alt=""/>
+<img src="divider.svg" width="100%" height="4" alt=""/>
 
 ### Currently
 
@@ -10,13 +10,13 @@ I'm a full-stack developer and student based in Tirunelveli, India. I like build
 - Learning system design and AI-assisted software engineering
 - Open to student developer roles and open-source collaboration
 
-<img src="assets/divider.svg" width="100%" height="4" alt=""/>
+<img src="divider.svg" width="100%" height="4" alt=""/>
 
 ### Stack
 
-<img src="assets/skills.svg" width="100%" alt="Python, Java, JavaScript, HTML5, CSS3, Flask, MySQL, Git, GitHub, VS Code"/>
+<img src="skills.svg" width="100%" alt="Python, Java, JavaScript, HTML5, CSS3, Flask, MySQL, Git, GitHub, VS Code"/>
 
-<img src="assets/divider.svg" width="100%" height="4" alt=""/>
+<img src="divider.svg" width="100%" height="4" alt=""/>
 
 ### Featured work
 
@@ -24,7 +24,7 @@ I'm a full-stack developer and student based in Tirunelveli, India. I like build
 A Python tool that stores academic records and turns them into readable performance reports — built so evaluators can spot trends across a class instead of parsing raw marks sheets by hand.
 `Python` · [source](https://github.com/drawwithcjcom-ai)
 
-<img src="assets/divider.svg" width="100%" height="4" alt=""/>
+<img src="divider.svg" width="100%" height="4" alt=""/>
 
 ### Activity
 
@@ -37,12 +37,12 @@ A Python tool that stores academic records and turns them into readable performa
 
 <img src="https://raw.githubusercontent.com/ChrisJeyan/ChrisJeyan/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation"/>
 
-<img src="assets/divider.svg" width="100%" height="4" alt=""/>
+<img src="divider.svg" width="100%" height="4" alt=""/>
 
 ### Contact
 
 <p>
-  <a href="mailto:drawwithcj.com@gmail.com"><img src="assets/contact-mail.svg" height="46" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/chris-jeyan-56404940b"><img src="assets/contact-linkedin.svg" height="46" alt="LinkedIn"/></a>
-  <a href="https://github.com/ChrisJeyan"><img src="assets/contact-github.svg" height="46" alt="GitHub"/></a>
+  <a href="mailto:drawwithcj.com@gmail.com"><img src="contact-mail.svg" height="46" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/chris-jeyan-56404940b"><img src="contact-linkedin.svg" height="46" alt="LinkedIn"/></a>
+  <a href="https://github.com/ChrisJeyan"><img src="contact-github.svg" height="46" alt="GitHub"/></a>
 </p>
