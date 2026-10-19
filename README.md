@@ -1,12 +1,12 @@
 <img src="hero.svg" width="100%" alt="Terminal introducing Chris Jeyan"/>
 
-I'm a full-stack developer and student based in Tirunelveli, India. I like building tools that make development faster and more collaborative — real-time editors, AI-assisted workflows, and small platforms that turn raw data into something people can actually read.
+I'm a learning full-stack developer and student based in Tirunelveli, India. I like building tools that make development faster and more collaborative — real-time editors, AI-assisted workflows, and small platforms that turn raw data into something people can actually read.
 
 <img src="divider.svg" width="100%" height="4" alt=""/>
 
 ### Currently
 
-- Building **DevSync**, a real-time collaborative coding environment
+- Building **En Vayal**, a smart app for farmers 
 - Learning system design and AI-assisted software engineering
 - Open to student developer roles and open-source collaboration
 
