@@ -1,57 +1,9 @@
 
-<!-- ==========================================================
-     CHRIS JEYAN | PREMIUM GITHUB PROFILE
-     Theme: Midnight Black × Neon Pink
-     Accent: #EF93C4 | #F8BBD0 | #FF69B4
-
-     BEFORE PUBLISHING:
-     1. Upload your personalized banner to this repository.
-     2. Replace YOUR_BANNER_FILENAME.png below.
-     3. Replace YOUR_TIKTOK_USERNAME and YOUR_YOUTUBE_HANDLE.
-     4. Follow the contribution snake setup instructions below.
-=========================================================== -->
-
-<!-- ===================== PERSONALIZED BANNER ===================== -->
 
 <div align="center">
-
-<!--
-     YOUR PERSONALIZED BANNER GOES HERE.
-
-     Upload your image to this repository, preferably inside:
-     assets/banner.png
-
-     Then replace YOUR_BANNER_FILENAME.png with banner.png
-     and remove the HTML comment around this image.
--->
-
-<!--
-<img
-  src="./assets/YOUR_BANNER_FILENAME.png"
-  width="100%"
-  alt="Chris Jeyan — personalized developer banner"
-/>
--->
-
-<!-- Optional responsive banner fallback.
-     Remove this block if you want ONLY your own banner. -->
-
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,45:29152B,100:FF69B4&section=header"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:F8BBD0,55:EF93C4,100:FF69B4&section=header"
-  />
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,45:29152B,100:FF69B4&section=header"
-    width="100%"
-    alt="Pink gradient header"
-  />
-</picture>
-
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for ChrisJeyan" src="art/header-light.png">
 <br/>
 
 <!-- ===================== INTRODUCTION ===================== -->
