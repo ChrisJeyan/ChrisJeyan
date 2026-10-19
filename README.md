@@ -1,11 +1,9 @@
 
-
 <div align="center">
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-   <img alt="Logo for ChrisJeyan" src="art/header-light.png">
-<br/>
-
+   <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
+   <img alt="Logo for ChrisJeyan" src="header-light.png">
+</picture>
 <!-- ===================== INTRODUCTION ===================== -->
 
 <h1 align="center">Hey there, I'm Chris Jeyan 👋</h1>
